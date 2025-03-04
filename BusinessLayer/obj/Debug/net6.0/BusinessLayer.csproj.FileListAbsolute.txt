@@ -1,0 +1,17 @@
+D:\git practice\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.AssemblyReference.cache
+D:\git practice\BusinessLayer\obj\Debug\net6.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\git practice\BusinessLayer\obj\Debug\net6.0\BusinessLayer.AssemblyInfoInputs.cache
+D:\git practice\BusinessLayer\obj\Debug\net6.0\BusinessLayer.AssemblyInfo.cs
+D:\git practice\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.CoreCompileInputs.cache
+D:\git practice\BusinessLayer\bin\Debug\net6.0\BusinessLayer.deps.json
+D:\git practice\BusinessLayer\bin\Debug\net6.0\BusinessLayer.dll
+D:\git practice\BusinessLayer\bin\Debug\net6.0\BusinessLayer.pdb
+D:\git practice\BusinessLayer\bin\Debug\net6.0\ModelLayer.dll
+D:\git practice\BusinessLayer\bin\Debug\net6.0\RepositoryLayer.dll
+D:\git practice\BusinessLayer\bin\Debug\net6.0\RepositoryLayer.pdb
+D:\git practice\BusinessLayer\bin\Debug\net6.0\ModelLayer.pdb
+D:\git practice\BusinessLayer\obj\Debug\net6.0\Business.EA331CBA.Up2Date
+D:\git practice\BusinessLayer\obj\Debug\net6.0\BusinessLayer.dll
+D:\git practice\BusinessLayer\obj\Debug\net6.0\refint\BusinessLayer.dll
+D:\git practice\BusinessLayer\obj\Debug\net6.0\BusinessLayer.pdb
+D:\git practice\BusinessLayer\obj\Debug\net6.0\ref\BusinessLayer.dll

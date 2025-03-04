@@ -1,0 +1,11 @@
+D:\git practice\ModelLayer\bin\Debug\net6.0\ModelLayer.deps.json
+D:\git practice\ModelLayer\bin\Debug\net6.0\ModelLayer.dll
+D:\git practice\ModelLayer\bin\Debug\net6.0\ModelLayer.pdb
+D:\git practice\ModelLayer\obj\Debug\net6.0\ModelLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\git practice\ModelLayer\obj\Debug\net6.0\ModelLayer.AssemblyInfoInputs.cache
+D:\git practice\ModelLayer\obj\Debug\net6.0\ModelLayer.AssemblyInfo.cs
+D:\git practice\ModelLayer\obj\Debug\net6.0\ModelLayer.csproj.CoreCompileInputs.cache
+D:\git practice\ModelLayer\obj\Debug\net6.0\ModelLayer.dll
+D:\git practice\ModelLayer\obj\Debug\net6.0\refint\ModelLayer.dll
+D:\git practice\ModelLayer\obj\Debug\net6.0\ModelLayer.pdb
+D:\git practice\ModelLayer\obj\Debug\net6.0\ref\ModelLayer.dll

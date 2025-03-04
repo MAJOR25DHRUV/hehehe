@@ -1,0 +1,65 @@
+[
+  {
+    "ContainingType": "EmRegister.Controllers.EmployeeRegisterController",
+    "Method": "GetEmployeesByDepartment",
+    "RelativePath": "EmployeeRegister/Department/{department}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "department",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EmRegister.Controllers.EmployeeRegisterController",
+    "Method": "RegisterEm",
+    "RelativePath": "EmployeeRegister/Register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "register",
+        "Type": "ModelLayer.DTO.Register",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EmRegister.Controllers.EmployeeRegisterController",
+    "Method": "GetEmployeesSortedBySalary",
+    "RelativePath": "EmployeeRegister/Sort",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EmRegister.Controllers.EmployeeRegisterController",
+    "Method": "UpdateEmployee",
+    "RelativePath": "EmployeeRegister/UpdateEmployee/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "updatedDetails",
+        "Type": "ModelLayer.DTO.Register",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
